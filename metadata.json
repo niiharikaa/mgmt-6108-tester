@@ -1,0 +1,6 @@
+{
+  "name": "Apple Store Singapore",
+  "description": "Experience the next generation of Apple devices with localized Singapore pricing, Apple Pickup at Marina Bay Sands, Orchard Road, and Jewel Changi, and interactive Apple TV+ streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
